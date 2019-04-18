@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/MysteryOfLife/mb2g-mvn-fixme1" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MysteryOfLife/JavaAlgoProblems.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/mavenCourse/resources" />
+    <option name="cloneParentDir" value="$USER_HOME$/mavenCourse" />
   </component>
 </application>
